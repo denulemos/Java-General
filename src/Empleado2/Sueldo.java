@@ -14,7 +14,7 @@ import java.time.LocalDate;
  */
 public class Sueldo {
     //Entradas (Los pase a CSueldo)
-   
+   private Empleado emple0;
     
     //Salidas
     public int Anti;

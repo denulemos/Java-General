@@ -4,8 +4,9 @@
 package ejercicioslemos;
 //import Empleado.*;
 
-import Empleado2.Entra0;
-
+//import Empleado2.Entra0;
+import Empleado2.Empleado.*;
+        
 /**
  * @author Denisse Lemos
  */
@@ -162,10 +163,15 @@ public class EjerciciosLemos {
 */
        Entra0 e1 = new Entra0();
        
+       
         
     }
         
-        
+        private double MiPrueba;
+        public double getMiPrueba()
+        {
+            return MiPrueba;
+        }
  
        
         
